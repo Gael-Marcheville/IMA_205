@@ -29,6 +29,7 @@
 *.xlsx
 *.csv
 *.dat
+**/cifar-10-batches-py/
 
 # TP C
 *.xyz
